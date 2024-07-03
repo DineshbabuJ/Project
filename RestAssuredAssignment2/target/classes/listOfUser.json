@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "username": "dinesh122",
+    "firstName": "dinesh",
+    "lastName": "babu",
+    "email": "test1@gmail",
+    "password": "test1",
+    "phone": "test1",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "test2",
+    "firstName": "test2",
+    "lastName": "test2",
+    "email": "test2@gmail",
+    "password": "test2",
+    "phone": "test2",
+    "userStatus": 0
+  },
+  {
+    "id": 3,
+    "username": "test3",
+    "firstName": "test3",
+    "lastName": "test3",
+    "email": "test3@gmail",
+    "password": "test3",
+    "phone": "test3",
+    "userStatus": 0
+  }
+
+]

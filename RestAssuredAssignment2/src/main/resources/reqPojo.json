@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "dog1",
+  "photoUrls": [
+    "photoDog1"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "tagDog1"
+    }
+  ],
+  "status": "sold"
+}
